@@ -1,10 +1,10 @@
-### ¡Hola! Soy Javier Cisneros 👋
+### ¡Hola! Soy Javier Humberto Cisneros Vela
 
 Soy estudiante de Ingeniería en Desarrollo y Gestión de Software enfocado en brindar soluciones operativas reales. Busco oportunidades remotas de medio tiempo (Trainee/Becario) donde pueda aportar valor inmediato en **Soporte TI, Automatización y Desarrollo Backend**, mientras sigo aprendiendo de equipos experimentados.
 
 Me destaco por mi **gran curiosidad por aprender** nuevas tecnologías, analizar requerimientos, optimizar tareas repetitivas mediante scripts y documentar procesos con atención al detalle.
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 **Lenguajes & Backend:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,10 +27,10 @@ Me destaco por mi **gran curiosidad por aprender** nuevas tecnologías, analizar
 
 ---
 
-### 🚀 Lo que estoy construyendo
+###  Lo que estoy construyendo
 Actualmente transformando necesidades de negocios locales y proyectos académicos en software funcional:
 - Automatización de catálogos PDF y procesamiento visual con Python, Tkinter y OpenCV para negocios de impresión.
 - APIs RESTful robustas y arquitectura de bases de datos (SQL y NoSQL).
 - Interfaces web interactivas enfocadas en la usabilidad del cliente final.
 
-📫 **Contáctame:** [havixv@gmail.com](mailto:havixv@gmail.com)
+ **Contáctame:** [havixv@gmail.com](mailto:havixv@gmail.com)
